@@ -56,3 +56,7 @@ Nome | Status | :musical_note:
 * Algum podcast da lista saiu do ar ou parou de ser atualizado? crie uma issue para nos avisar!
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ogilvieira/dev-podcast-list-brazil/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ogilvieira/dev-podcast-list-brazil/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
