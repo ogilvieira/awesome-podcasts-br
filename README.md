@@ -10,6 +10,7 @@ Nome | Status | :musical_note:
 [Aspnetcast](https://www.youtube.com/channel/UC1DrB2LTgVBGiZdgaOrzMCg/featured)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [Castálio Podcast](http://castalio.info/) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/castalio-podcast/id446259197?mt=2)
 [CodeTalks](http://www.codetalks.net/)|![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/codetalks/id939257121)
+[Curto Circuito](http://curtocircuito.cc/) | ![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/curto-circuito-podcast/id712723389)
 [DatabaseCast](http://imasters.com.br/perfil/databasecast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/databasecast/id413491490?mt=2)
 [DevNaEstrada](http://devnaestrada.com.br/ ) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square) |[itunes](https://itunes.apple.com/br/podcast/devnaestrada-podcast-sobre/id997779431?mt=2)
 [DioCast](http://www.diolinux.com.br/search/label/DioCast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
@@ -23,6 +24,7 @@ Nome | Status | :musical_note:
 [PodSemFio](http://www.garotasemfio.com.br/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/podsemfio-podcast-feed/id177214142?mt=2)
 [SCICAST](http://www.scicast.com.br/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/scicast-podcast/id732167740?mt=2)
 [Tableless Drops](http://tableless.com.br/categoria/podcasts/drops-podcasts/) | ![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|:x:
+[Talk a Byte](http://www.tabcast.com.br/) | ![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square) | :x:
 [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/tecnologicamente-arretado/id873915897)
 [Tribo do C.I. Podcast](http://tribodoci.net/categoria/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [Void](http://voidpodcast.com/)|![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/void-podcast/id443186480)
