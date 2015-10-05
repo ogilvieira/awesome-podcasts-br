@@ -31,32 +31,32 @@ Nome | Status | :musical_note: | Feed
 [Zone of Front Enders (ZOFE)](http://zofe.com.br/) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square) | [itunes](https://itunes.apple.com/br/podcast/zone-of-front-enders-podcast/id580335548?mt=2)| [feed](http://zofe.com.br/feed/posts.xml)
 
 ## en
-Nome | Status | :musical_note:
----- | ---- | ----
-[5 Minutes of Javascript](https://fivejs.codeschool.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/5-minutes-of-javascript/id775261328?mt=2)
-[Adventures in Angular](https://devchat.tv/adventures-in-angular)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/adventures-in-angular/id907361052)
-[Build and Analyze](http://5by5.tv/buildanalyze)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=404064215)
-[Coding 101](https://twit.tv/shows/coding-101)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/coding-101-mp3/id804926728)
-[CodeNewbie](http://www.codenewbie.org/podcast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/codenewbie/id919219256)
-[CodePen Radio](https://blog.codepen.io/radio/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/codepen-radio/id824437159)
-[Developer Tea](https://developertea.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/developer-tea/id955596067)
-[ Fragmented ](http://fragmentedpodcast.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/fragmented/id968779958)
-[Front-end Five](https://frontendfive.codeschool.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/front-end-five/id1003995196?mt=2)
-[Hanselminutes](http://hanselminutes.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/hanselminutes/id117488860)
-[Javascript Jabber](https://devchat.tv/js-jabber)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/javascript-jabber/id496893300)
-[Meteor Club Podcast](https://podcast.meteorjs.club/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/meteor-club-podcast/id984131621?mt=2)
-[Meteor Interviews](http://www.meteorinterviews.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/ca/podcast/meteor-interviews/id978442733)
-[NodeUp](http://nodeup.com/)|![active](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/nodeup/id447667314)
-[Responsive Web Design Podcast](http://responsivewebdesign.com/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/a-responsive-design-podcast/id910013523?mt=2)
-[Ruby Rogues](https://devchat.tv/ruby-rogues/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/ruby-rogues/id705335155?mt=2)
-[Shoptalk](http://shoptalkshow.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/podcast/id493890455)
-[The Changelog](https://changelog.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/podcast/the-changelog/id341623264)
-[The Path to Performance](http://pathtoperf.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/the-path-to-performance/id983003732)
-[The Talk Show With John Gruber](http://daringfireball.net/thetalkshow)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/the-talk-show-with-john-gruber/id528458508)
-[The Web Ahead](http://5by5.tv/webahead)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=464936442)
-[The Meteor Podcast](http://www.meteorpodcast.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/the-meteor-podcast/id795089333?mt=2)
-[This Developer's Life](http://thisdeveloperslife.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/this-developers-life/id389727545)
-[ TTL Podcast ](http://ttlpodcast.com/) |![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/ttl-podcast/id989679484)
+Nome | Status | :musical_note: | Feed
+---- | ---- | ---- | ----
+[5 Minutes of Javascript](https://fivejs.codeschool.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/5-minutes-of-javascript/id775261328?mt=2)| [feed](https://fivejs.codeschool.com/feed.rss)
+[Adventures in Angular](https://devchat.tv/adventures-in-angular)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/adventures-in-angular/id907361052)| [feed](http://feeds.feedwrench.com/AdventuresInAngular.rss)
+[Build and Analyze](http://5by5.tv/buildanalyze)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=404064215)| [feed](http://feeds.5by5.tv/buildanalyze)
+[Coding 101](https://twit.tv/shows/coding-101)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/coding-101-mp3/id804926728)| [feed](http://feeds.twit.tv/code.xml)
+[CodeNewbie](http://www.codenewbie.org/podcast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/codenewbie/id919219256)| [feed](http://feeds.podtrac.com/q8s8ba9YtM6r)
+[CodePen Radio](https://blog.codepen.io/radio/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/codepen-radio/id824437159)| [feed](https://blog.codepen.io/feed/podcast/)
+[Developer Tea](https://developertea.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/developer-tea/id955596067)|:x:
+[ Fragmented ](http://fragmentedpodcast.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/fragmented/id968779958)| [feed](http://fragmentedpodcast.com/feed/)
+[Front-end Five](https://frontendfive.codeschool.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/front-end-five/id1003995196?mt=2)| [feed](https://frontendfive.codeschool.com/feed.rss)
+[Hanselminutes](http://hanselminutes.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/hanselminutes/id117488860)| [feed](http://feeds.podtrac.com/9dPm65vdpLL1)
+[Javascript Jabber](https://devchat.tv/js-jabber)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/javascript-jabber/id496893300)| [feed](http://feeds.feedwrench.com/JavaScriptJabber.rss)
+[Meteor Club Podcast](https://podcast.meteorjs.club/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/meteor-club-podcast/id984131621?mt=2)| [feed](http://simplecast.fm/podcasts/1108/rss)
+[Meteor Interviews](http://www.meteorinterviews.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/ca/podcast/meteor-interviews/id978442733)| [feed](http://simplecast.fm/podcasts/1068/rss)
+[NodeUp](http://nodeup.com/)|![active](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/nodeup/id447667314)| [feed](http://feeds.feedburner.com/NodeUp)
+[Responsive Web Design Podcast](http://responsivewebdesign.com/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/a-responsive-design-podcast/id910013523?mt=2)| [feed](http://responsivewebdesign.com/podcast/feed.xml)
+[Ruby Rogues](https://devchat.tv/ruby-rogues/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/ruby-rogues/id705335155?mt=2)| [feed](http://feeds.feedwrench.com/RubyRogues.rss)
+[Shoptalk](http://shoptalkshow.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/podcast/id493890455)| [feed](http://shoptalkshow.com/feed/podcast/)
+[The Changelog](https://changelog.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/podcast/the-changelog/id341623264)| [feed](http://feeds.5by5.tv/changelog)
+[The Path to Performance](http://pathtoperf.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/the-path-to-performance/id983003732)| [feed](http://simplecast.fm/podcasts/1103/rss)
+[The Talk Show With John Gruber](http://daringfireball.net/thetalkshow)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/the-talk-show-with-john-gruber/id528458508)| [feed](http://daringfireball.net/thetalkshow/rss)
+[The Web Ahead](http://5by5.tv/webahead)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=464936442)| [feed](http://feeds.5by5.tv/webahead)
+[The Meteor Podcast](http://www.meteorpodcast.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/the-meteor-podcast/id795089333?mt=2)| [feed](http://podcast.crater.io/feed)
+[This Developer's Life](http://thisdeveloperslife.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/this-developers-life/id389727545)| [feed](http://feeds.feedburner.com/thisdeveloperslife)
+[ TTL Podcast ](http://ttlpodcast.com/) |![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/ttl-podcast/id989679484)| [feed](http://ttlpodcast.com/feeds/rss.xml)
 
 ## Dê sua contribuição
 * Dê fork e mande seu PR para aumentar ainda mais essa lista! :rocket:
