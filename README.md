@@ -54,11 +54,8 @@ Nome | Status | :musical_note:
 [The Web Ahead](http://5by5.tv/webahead)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=464936442)
 [The Meteor Podcast](http://www.meteorpodcast.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/the-meteor-podcast/id795089333?mt=2)
 [This Developer's Life](http://thisdeveloperslife.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/this-developers-life/id389727545)
-[Toolsday Podecast](toolsday.io)
-|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
-[ TTL Podcast ](http://ttlpodcast.com/) |![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/ttl-podcast/id989679484)
-
-
+[Toolsday Podecast](toolsday.io)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
+[ TTL Podcast ](http://ttlpodcast.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/ttl-podcast/id989679484)
 
 ## Dê sua contribuição
 * Dê fork e mande seu PR para aumentar ainda mais essa lista! :rocket:
