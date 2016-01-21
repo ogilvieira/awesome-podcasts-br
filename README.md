@@ -30,6 +30,7 @@ Nome | Status | :musical_note:
 [Tribo do C.I. Podcast](http://tribodoci.net/categoria/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [Void](http://voidpodcast.com/)|![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/void-podcast/id443186480)
 [Zone of Front Enders (ZOFE)](http://zofe.com.br/) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square) | [itunes](https://itunes.apple.com/br/podcast/zone-of-front-enders-podcast/id580335548?mt=2)
+[Coca Tech](https://cocatech.com.br/) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square) | [itunes](https://itunes.apple.com/br/podcast/cocatech/id437224054?mt=2)
 
 ## en
 Nome | Status | :musical_note:
@@ -61,6 +62,7 @@ Nome | Status | :musical_note:
 [The Meteor Podcast](http://www.meteorpodcast.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/the-meteor-podcast/id795089333?mt=2)
 [This Developer's Life](http://thisdeveloperslife.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/this-developers-life/id389727545)
 [ TTL Podcast ](http://ttlpodcast.com/) |![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/ttl-podcast/id989679484)
+[ Android Developers Backstage ](http://androidbackstage.blogspot.com.br/) |![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/android-developers-backstage/id785545036?mt=2)
 
 ## Dê sua contribuição
 * Dê fork e mande seu PR para aumentar ainda mais essa lista! :rocket:
