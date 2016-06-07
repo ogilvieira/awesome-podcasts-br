@@ -1,0 +1,42 @@
+[
+  {
+    "name" : "Aspnetcast",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis modi, expedita rerum ratione adipisci ex similique quidem dignissimos fuga. Aperiam animi, veniam, sit consectetur voluptatibus deserunt facere totam sequi temporibus, dolor possimus quae odit maxime? Tenetur quasi, repudiandae sequi perspiciatis exercitationem corporis voluptatem nisi possimus optio explicabo beatae rem impedit accusantium expedita aliquam, ipsum, placeat quam facilis amet aspernatur inventore nobis soluta, itaque sapiente aut? Vel repellendus repellat beatae. Velit aspernatur maxime mollitia corrupti, ipsum hic dignissimos magni itaque atque ducimus, vitae quam numquam temporibus enim, quae nisi qui ad corporis tenetur? Voluptatibus quae distinctio magni id delectus, nisi, eius.",
+    "status" : 1,
+    "itunes_link" : false,
+    "website_link" : false,
+    "youtube_link" : false,
+    "rss_link" : false,
+    "language" : "pt_br"
+  },
+  {
+    "name" : "Castálio Podcast",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem nihil id repudiandae nesciunt assumenda, voluptatibus expedita ipsum cupiditate explicabo libero saepe eius in veniam, vitae nostrum voluptatum enim ipsam. Sit facere modi odit quas velit voluptates, doloremque harum nulla recusandae quasi veritatis ipsum consequatur dignissimos ab, officiis labore corrupti sint saepe animi ratione quidem vel mollitia! Sit unde accusamus hic quae cum sapiente eum, amet reprehenderit possimus aliquid ut ex, tenetur consequuntur, reiciendis atque rerum labore eveniet veritatis beatae. Accusamus consectetur voluptatibus aspernatur sequi quaerat ipsa repellendus porro, blanditiis et nemo dolorum eveniet earum, vel incidunt tenetur natus molestias. Facere.",
+    "status" : 1,
+    "itunes_link" : "https://itunes.apple.com/br/podcast/castalio-podcast/id446259197?mt=2",
+    "website_link" : false,
+    "youtube_link" : false,
+    "rss_link" : false,
+    "language" : "pt_br"
+  },
+  {
+    "name" : "CapyCast",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem nihil id repudiandae nesciunt assumenda, voluptatibus expedita ipsum cupiditate explicabo libero saepe eius in veniam, vitae nostrum voluptatum enim ipsam. Sit facere modi odit quas velit voluptates, doloremque harum nulla recusandae quasi veritatis ipsum consequatur dignissimos ab, officiis labore corrupti sint saepe animi ratione quidem vel mollitia! Sit unde accusamus hic quae cum sapiente eum, amet reprehenderit possimus aliquid ut ex, tenetur consequuntur, reiciendis atque rerum labore eveniet veritatis beatae. Accusamus consectetur voluptatibus aspernatur sequi quaerat ipsa repellendus porro, blanditiis et nemo dolorum eveniet earum, vel incidunt tenetur natus molestias. Facere.",
+    "status" : 1,
+    "itunes_link" : "https://itunes.apple.com/br/podcast/castalio-podcast/id446259197?mt=2",
+    "website_link" : false,
+    "youtube_link" : false,
+    "rss_link" : false,
+    "language" : "pt_br"
+  },
+  {
+    "name" : "Carcast Programming",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem nihil id repudiandae nesciunt assumenda, voluptatibus expedita ipsum cupiditate explicabo libero saepe eius in veniam, vitae nostrum voluptatum enim ipsam. Sit facere modi odit quas velit voluptates, doloremque harum nulla recusandae quasi veritatis ipsum consequatur dignissimos ab, officiis labore corrupti sint saepe animi ratione quidem vel mollitia! Sit unde accusamus hic quae cum sapiente eum, amet reprehenderit possimus aliquid ut ex, tenetur consequuntur, reiciendis atque rerum labore eveniet veritatis beatae. Accusamus consectetur voluptatibus aspernatur sequi quaerat ipsa repellendus porro, blanditiis et nemo dolorum eveniet earum, vel incidunt tenetur natus molestias. Facere.",
+    "status" : 1,
+    "itunes_link" : "https://itunes.apple.com/br/podcast/castalio-podcast/id446259197?mt=2",
+    "website_link" : false,
+    "youtube_link" : false,
+    "rss_link" : false,
+    "language" : "pt_br"
+  }
+]

@@ -1,0 +1,28 @@
+<div class="container">
+	<div class="col-12">
+        <form class="navbar-form navbar-left" role="search">
+          <div class="form-group">
+            <input type="text" class="form-control" ng-model="terms" placeholder="Procurar">
+          </div>
+          <div class="form-group">
+          	<label>
+	            <input type="checkbox" ng-model="itunes">
+	            <span>Itunes</span>
+            </label>
+          </div>
+        </form>
+	</div>
+</div>
+
+<section class="container">
+  <div class="col-sm-4 col-md-4" ng-repeat="item in podcasts | orderBy:'name' | filter:{ name: (terms|cleanText) }">
+    <div class="thumbnail">
+      <img src="http://www.dummyimage.com/400x200/444/ccc.jpg" alt="">
+      <div class="caption">
+        <h3>{{item.name}}</h3>
+        <p ng-bind="(item.description | limitTo: 150)+'...'"></p>
+        <p><a href="#/podcast/{{$index}}" class="btn btn-primary" role="button">Saiba Mais</a>
+      </div>
+    </div>
+  </div>
+</section>
