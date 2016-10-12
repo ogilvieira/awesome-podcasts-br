@@ -204,6 +204,18 @@
     "language" : "pt_br"
   },
   {
+    "name" : "Hipsters ponto tech",
+    "description" : "O Hipsters Ponto Tech é o podcast onde o pessoal da Caelum e da Alura entra em discussões acaloradas sobre programação, design, ux, gadgets, startups e as últimas modinhas em tecnologia. Ah! E sempre com convidados.",
+    "status" : true,
+    "itunes_link" : "",
+    "website_link" : "http://hipsters.tech/",
+    "youtube_link" : "",
+    "rss_link" : "http://hipsters.tech/feed/podcast/",
+    "soundclound_link" : "",
+    "twitter_at": "",
+    "language" : "pt_br"
+  },
+  {
     "name" : "Lambda3",
     "description" : "O Podcast da Lambda3 é um programa feito pelas pessoas que trabalham aqui na Lambda. Ele é feito 100% de acordo com os desejos das pessoas, sem viés tecnologico, sem viés de mercado, pensando em levar o melhor das discussões que ocorrem no dia-a-dia do desenvolvimento aqui da Lambda para a comunidade técnica. O podcast segue um formato de conversa, bem descontraída, abordando temas técnicos e também temas não técnicos que nós Lambdas consideramos importantes e relevantes, e por isso escolhemos compartilhar.",
     "status" : true,
