@@ -26,6 +26,7 @@ Nome | Status | :musical_note:
 [GDG Casts](http://gdgcasts.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/gdg-casts/id953473652?mt=2)
 [Grok Podcast](http://www.grokpodcast.com/)|![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/grok-podcast/id393122038)
 [Hack 'n' Cast](http://hackncast.org/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?mt=2)
+[Hipsters ponto tech](http://hipsters.tech/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [Lambda3](http://blog.lambda3.com.br/category/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/lambda3-podcast/id1115313672?mt=2)
 [Loop Matinal](http://loopmatinal.libsyn.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/loop-matinal/id1053245743?mt=2)
 [NerdCast](https://jovemnerd.com.br/nerdcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/app/id1122679489)
