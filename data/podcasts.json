@@ -1270,5 +1270,17 @@
     "soundclound_link": false,
     "twitter_at":"bluesoftlabs",
     "language":"pt_br"
+  },
+  {
+    "name": "ResumoCast",
+    "description": "Negócios e empreendedorismo através do estudo de livros",
+    "status": true,
+    "itunes_link": "https://itunes.apple.com/br/podcast/resumocast-livros-para-empreendedores/id1073441121?mt=2",
+    "website_link": "https://www.resumocast.com.br/",
+    "youtube_link": "https://www.youtube.com/resumocast",
+    "rss_link": "https://www.resumocast.com.br/feed/",
+    "soundclound_link": "https://soundcloud.com/resumocast",
+    "twitter_at": "ResumoCast",
+    "language": "pt_br"
   }
 ]
