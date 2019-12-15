@@ -1,0 +1,11 @@
+body {
+  padding-top: 120px;
+  background-color: whitesmoke !important;
+  color: #636363;
+}
+
+@media screen and (max-width: 991px){
+  body {
+    padding-top: 70px;
+  }
+}

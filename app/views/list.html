@@ -1,0 +1,78 @@
+<div class="container">
+  <div class="row">
+    <section id="main" class="col-xs-12 col-sm-12">
+
+        <form class="filter-bar container-fluid" ng-model="searchform" role="search">
+          <div class="row">
+            <div class="form-group col-sm-6">
+              <input type="text" class="form-control input-lg col-lg-6" ng-model="searchform.$" placeholder="Filtrar">
+            </div>
+            <div class="form-group col-xs-6 col-sm-3">
+              <select class="form-control input-lg" ng-model="searchform.status">
+                <option value="">Status</option>
+                <option value="true">Ativo</option>
+                <option value="false">Desativado</option>
+              </select>
+            </div>
+            <div class="form-group col-xs-6 col-sm-3">
+              <select class="form-control input-lg" ng-model="searchform.language">
+                <option value="">Idioma</option>
+                <option value="pt_br">PT BR</option>
+                <option value="en">EN</option>
+              </select>
+            </div>
+          </div>
+        </form>
+
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-sm-6 col-md-4" ng-if="loaded && podcast_list.length > 0 && !searchform.$.length">
+            <a href="https://goo.gl/0aVrAE" target="_blank" class="item-list item-list-ad media">
+              <div class="media-left media-middle">
+                <img class="media-object" ng-src="assets/img/centro-de-treinamento.png" width="128" height="128" alt="Pesquisa de interesse">
+              </div>
+              <div class="media-body">
+                <h4 class="media-heading"> <i class="fa fa-circle" aria-hidden="true"></i> Procurando um mentor?</h4>
+                  <p>
+                    Mentoria, para ajudar novos(as) desenvolvedores(as) ou os(as) desenvolvedores(as) irem ao infinito e além em suas carreiras!
+                  </p>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-sm-6 col-md-4" ng-repeat="item in podcast_list = (podcasts | orderBy:'name' | filter:searchform:strict)">
+            <a href="#/podcast/{{item.name|slugify}}" class="item-list media">
+              <div class="media-left media-middle">
+                <img class="media-object" ng-if="item.twitter_at" ng-src="https://avatars.io/twitter/{{item.twitter_at | lowercase}}" width="128" height="128" alt="{{item.name}}">
+                <img class="media-object" ng-if="!item.twitter_at" ng-src="assets/img/placeholder.png" width="128" height="128" alt="{{item.name}}">
+              </div>
+              <div class="media-body">
+                <h4 class="media-heading"> <i class="fa" ng-class="{ 'fa-circle' : item.status, 'fa-circle-o' : !item.status}" aria-hidden="true"></i> {{item.name | limitTo: 21}}</h4>
+                  <span ng-if="item.itunes_link"><i class="fa fa-apple"></i></span>
+                  <span ng-if="item.youtube_link"><i class="fa fa-youtube-play"></i></span>
+                  <span ng-if="item.soundclound_link"><i class="fa fa-soundcloud"></i></span>
+                  <span ng-if="item.rss_link"><i class="fa fa-rss"></i></span>
+                  <span ng-if="item.website_link"><i class="fa fa-link"></i></span>
+                  <p ng-bind="(( stripTags(item.description) || 'Sem descrição') | limitTo: 80)+'...'"></p>
+              </div>
+            </a>
+          </div>
+
+          <center ng-if="!loaded && podcasts.length == 0">
+            <i class="fa fa-cog fa-spin fa-3x fa-fw"></i>
+            <span class="sr-only">Loading...</span>
+          </center>
+
+          <center ng-if="loaded && podcast_list.length == 0" class="col-lg-12">
+            <p>
+              Nenhum resultado :( 
+              <br><br> 
+              <button class="btn" ng-click="clearQuery()"><i class="fa fa-repeat"></i> Tentar outra vez</button>
+            </p>
+          </center> 
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>

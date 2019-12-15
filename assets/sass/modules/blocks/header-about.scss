@@ -1,0 +1,23 @@
+.header-about {
+  .media-heading {
+    line-height: 32px;
+    .fa {
+      vertical-align: middle;
+      font-size: .5em;
+      line-height: 1em;
+      color: #ccc;
+      text-align: center;
+      &.fa-circle {
+        color: #15984b;
+        text-shadow: 0 0 2px #15984b;
+      }
+    }
+  }
+  .nav {
+    a {
+      background: white;
+      color: #164581;
+      border-radius: 50%;
+    }
+  }
+}

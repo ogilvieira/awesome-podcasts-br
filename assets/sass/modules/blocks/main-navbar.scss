@@ -1,0 +1,31 @@
+.main-navbar {
+  background: #FFF;
+  height: 100px;
+  padding: 10px 0;
+  box-shadow: 0 0 5px rgba(0,0,0,.2);
+  .navbar-header {
+    float: none;
+  }
+  .navbar-brand {
+    display: block;
+    height: 80px;
+    width: 207px;
+    background: url(../img/brand.png) no-repeat center center;
+    overflow: hidden;
+    text-indent: -999px;
+    padding: 0;
+    float: none;
+    margin: 0 auto !important;
+  }
+}
+
+@media screen and (max-width: 991px){
+  .main-navbar {
+    height: 60px;
+    .navbar-brand {
+      height: 40px;
+      width: 104px;
+      background-size: auto 40px;
+    }
+  }
+}

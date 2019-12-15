@@ -1,0 +1,61 @@
+<div class="container">
+	<div class="col-12">
+    <header class="header-about page-header media">
+      <div class="media-left media-middle">
+        <img class="media-object" ng-if="podcast.twitter_at" ng-src="https://avatars.io/twitter/{{podcast.twitter_at | lowercase}}" width="128" height="128" alt="{{podcast.name}}">
+        <img class="media-object" ng-if="!podcast.twitter_at" ng-src="assets/img/placeholder.png" width="128" height="128" alt="{{podcast.name}}">
+      </div>
+      <div class="media-body">
+    		<h1 class="media-heading"><i class="fa" ng-class="{ 'fa-circle' : podcast.status, 'fa-circle-o' : !podcast.status}" aria-hidden="true"></i> {{podcast.name}}</h1>
+        <nav>
+          <ul class="nav nav-pills">
+            <li ng-if="podcast.website_link"><a target="_blank" href="{{podcast.website_link}}"><i class="fa fa-link"></i></a></li>
+            <li ng-if="podcast.itunes_link"><a target="_blank" href="{{podcast.itunes_link}}"><i class="fa fa-apple"></i></a></li>
+            <li ng-if="podcast.youtube_link"><a target="_blank" href="{{podcast.youtube_link}}"><i class="fa fa-youtube-play"></i></a></li>
+            <li ng-if="podcast.soundclound_link"><a target="_blank" href="{{podcast.soundclound_link}}"><i class="fa fa-soundcloud"></i></a></li>
+            <li ng-if="podcast.rss_link"><a target="_blank" href="{{podcast.rss_link}}"><i class="fa fa-rss"></i></a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+  </div>
+</div>
+
+<section class="container">
+  <div class="col-12">
+
+    <ol class="breadcrumb">
+      <li><a href="#/"><i class="fa fa-home"></i> Lista</a></li>
+      <li class="active">{{podcast.name}}</li>
+    </ol>
+
+    <div class="block-description panel panel-default">
+      <div class="panel-body" ng-bind-html="(podcast.description || 'Sem descrição...')">
+      </div>
+    </div>
+  </div>
+
+  <center ng-if="feedloaded == false">
+    <i class="fa fa-cog fa-spin fa-3x fa-fw"></i>
+    <span class="sr-only">Loading...</span>
+  </center>
+
+  <div ng-if="feedlist.length" class="col-12">
+      <h3><i class="fa fa-volume-up"></i> Últimos episódios no feed:</h3>
+      <div class="row">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-sm-6 col-md-4" ng-repeat="item in feedlist">
+              <a href="{{item.link}}" target="_blank" class="item-episode panel panel-default">
+                <div class="panel-body">
+                  <small>{{getTime(item.publishedDate) | date: 'dd/MM/yyyy'}}</small>
+                  <h4 class="media-heading">{{item.title}}</h4>
+                </div>
+              </a>
+            </div>
+          </div>
+
+        </div>
+      </div>
+  </div>
+</section>
