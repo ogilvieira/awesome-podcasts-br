@@ -1723,5 +1723,18 @@
       "twitter_at": "cppcast",
       "image": "https://cppcast.com/img/logo-square.png",
       "language": "en"
+    },
+    {
+      "name": "Ciência da Computação",
+      "description": "Podcast de divulgação científica da ciência da computação",
+      "status": true,
+      "itunes_link": "https://podcasts.apple.com/br/podcast/ci%C3%AAncia-da-computa%C3%A7%C3%A3o/id1522618876",
+      "website_link": "https://computacaocast.com.br/",
+      "youtube_link": "",
+      "rss_link": "http://rss.castbox.fm/everest/09fcef49c1e741fa9c564c3c0f564021.xml",
+      "soundclound_link": "",
+      "twitter_at": "computacaocast",
+      "image": "https://s3.castbox.fm/f2/3a/d7/a3c7254bd2819ad3bcbb3d0edd.jpg",
+      "language": "pt_br"
     }
 ]
